@@ -1,0 +1,667 @@
+[22-02-13 21:08:44.5380] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:08:44.7153] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:08:44.7197] main::changeEffectiveUserAndGroup (1030) Warning: User squeezeboxserver not found.
+[22-02-13 21:12:44.6480] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:12:44.7232] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:12:44.7339] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:12:44.7430] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:15:31.1094] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:15:31.1860] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:15:31.1966] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:15:31.2083] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:17:05.4552] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:17:05.5332] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:17:05.5454] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:17:05.5547] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:19:41.8619] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:19:41.9391] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:19:41.9494] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:19:41.9587] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:20:55.7810] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:20:55.8563] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:20:55.8667] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:20:55.8759] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:21:30.2163] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:21:30.2848] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:21:30.3012] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:21:30.3109] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:22:56.6879] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:22:56.7639] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:22:56.7743] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:22:56.7838] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:24:18.7429] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:24:18.8160] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:24:18.8275] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:24:18.8372] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:26:27.2863] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:26:27.3602] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:26:27.3714] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:26:27.3809] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:29:24.2885] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:29:24.3619] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:29:24.3741] main::init (484) Warning: Can't locate UUID/Tiny.pm:   /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/UUID/Tiny.pm: Permission denied at ./slimserver.pl line 484.
+[22-02-13 21:29:24.3833] Slim::Utils::Prefs::Namespace::savenow (337) Error: can't save /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/prefs/server.prefs: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Utils/Prefs/Namespace.pm line 326.
+[22-02-13 21:33:28.5690] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-13 21:33:28.6458] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-13 21:33:34.8324] Slim::Utils::Misc::msg (1343) Warning: [21:33:34.8207] Async::HTTP: Unable to load IO::Socket::SSL, will try connecting to SSL servers in non-SSL mode
+Can't locate IO/Socket/SSL.pm in @INC (you may need to install the IO::Socket::SSL module) (@INC contains: /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Cache/InstalledPlugins /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34 /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /usr/local/lib/perl5/site_perl /usr/local/share/perl5/site_perl /usr/lib/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/core_perl /usr/share/perl5/core_perl) at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+BEGIN failed--compilation aborted at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+Compilation failed in require at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/HTTP.pm line 31.
+
+[22-02-13 21:33:50.6238] Slim::Plugin::RhapsodyDirect::Plugin::initPlugin (22) This service requires the Perl module IO::Socket::SSL. You can not use this service without that module. Please use your operating system's package manager to install it.
+[22-02-13 21:33:51.0327] Slim::Networking::Repositories::get (137) Falling back to plain text http lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-13 21:33:52.0123] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-13 21:33:52.8062] Slim::Utils::Misc::msg (1343) Warning: [21:33:52.7938] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:33:52.8321] Slim::Utils::Misc::msg (1343) Warning: [21:33:52.8150] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:33:55.7619] Slim::Utils::Misc::msg (1343) Warning: [21:33:55.7492] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:04.5513] Slim::Utils::Misc::msg (1343) Warning: [21:34:04.5424] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:04.5641] Slim::Utils::Misc::msg (1343) Warning: [21:34:04.5538] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:06.5347] Slim::Utils::Misc::msg (1343) Warning: [21:34:06.5222] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:06.5458] Slim::Networking::Discovery::Players::_players_error (144) Unable to get players: Connect timed out: Invalid argument
+[22-02-13 21:34:19.8829] Slim::Utils::Misc::msg (1343) Warning: [21:34:19.8781] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:20.6783] Slim::Utils::Misc::msg (1343) Warning: [21:34:20.6736] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:20.6891] Slim::Utils::Misc::msg (1343) Warning: [21:34:20.6834] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:24.0079] Slim::Utils::Misc::msg (1343) Warning: [21:34:24.0034] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:24.8813] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:34:24.8893] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:34:24.9042] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://www.mysqueezebox.com/api/sounds/v1/opml
+Couldn't resolve IP address for: www.mysqueezebox.com
+[22-02-13 21:34:24.9119] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Couldn't resolve IP address for: www.mysqueezebox.com
+[22-02-13 21:34:24.9221] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-13 21:34:31.0220] Slim::Utils::Misc::msg (1343) Warning: [21:34:31.0169] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:33.5639] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-13 21:34:36.1017] Slim::Utils::Misc::msg (1343) Warning: [21:34:36.0928] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:41.0956] Slim::Utils::Misc::msg (1343) Warning: [21:34:41.0908] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:43.2009] Slim::Utils::Misc::msg (1343) Warning: [21:34:43.1961] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:34:46.0946] Slim::Utils::Update::checkVersionError (185) Fout opgetreden tijdens het controleren op updates van Logitech Media Server:
+Couldn't resolve IP address for: www.mysqueezebox.com
+[22-02-13 21:35:01.4801] Slim::Utils::Misc::msg (1343) Warning: [21:35:01.4596] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:35:07.6454] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:35:07.6499] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:35:29.0281] Slim::Utils::Misc::msg (1343) Warning: [21:35:29.0265] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:35:36.0306] Slim::Utils::Misc::msg (1343) Warning: [21:35:36.0268] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:35:46.0422] Slim::Utils::Misc::msg (1343) Warning: [21:35:46.0333] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:35:51.0503] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:35:51.0599] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:36:00.2601] Slim::Utils::Misc::msg (1343) Warning: [21:36:00.2571] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:07.2603] Slim::Utils::Misc::msg (1343) Warning: [21:36:07.2587] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:17.2602] Slim::Utils::Misc::msg (1343) Warning: [21:36:17.2585] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:22.2595] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-13 21:36:33.0075] Slim::Utils::Misc::msg (1343) Warning: [21:36:33.0058] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:40.0105] Slim::Utils::Misc::msg (1343) Warning: [21:36:40.0089] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:50.0180] Slim::Utils::Misc::msg (1343) Warning: [21:36:50.0151] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-13 21:36:55.0190] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-13 21:36:55.0370] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+                                                                                                                                                                                                                                 [22-02-14 07:42:42.2870] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 07:42:42.3817] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 07:42:43.4359] Slim::Utils::Misc::msg (1343) Warning: [07:42:43.4257] Async::HTTP: Unable to load IO::Socket::SSL, will try connecting to SSL servers in non-SSL mode
+Can't locate IO/Socket/SSL.pm in @INC (you may need to install the IO::Socket::SSL module) (@INC contains: /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Cache/InstalledPlugins /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34 /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /usr/local/lib/perl5/site_perl /usr/local/share/perl5/site_perl /usr/lib/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/core_perl /usr/share/perl5/core_perl) at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+BEGIN failed--compilation aborted at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+Compilation failed in require at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/HTTP.pm line 31.
+
+[22-02-14 07:42:56.7889] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 07:42:56.7963] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-14 07:42:56.8001] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-14 07:42:56.8364] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-14 07:42:56.8489] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-14 07:42:56.8591] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-14 07:42:56.8911] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-14 07:42:56.9757] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-14 07:42:56.9985] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-14 07:42:57.3671] Slim::Plugin::RhapsodyDirect::Plugin::initPlugin (22) Deze service vereist Perl module IO::Socket::SSL. Je kunt de service zonder deze module niet gebruiken. Gebruik de pakketmanager van je besturingssysteem om het te instaleren.
+[22-02-14 07:42:57.7984] Slim::Networking::Repositories::get (137) Falling back to plain text http lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 07:42:58.7313] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-14 07:42:59.4561] Slim::Utils::Misc::msg (1343) Warning: [07:42:59.4386] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:42:59.4695] Slim::Utils::Misc::msg (1343) Warning: [07:42:59.4586] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:01.4663] Slim::Utils::Misc::msg (1343) Warning: [07:43:01.4558] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:06.4469] Slim::Utils::Misc::msg (1343) Warning: [07:43:06.4429] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:06.4575] Slim::Utils::Misc::msg (1343) Warning: [07:43:06.4539] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:08.4519] Slim::Utils::Misc::msg (1343) Warning: [07:43:08.4472] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:16.4498] Slim::Utils::Misc::msg (1343) Warning: [07:43:16.4448] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:16.4622] Slim::Utils::Misc::msg (1343) Warning: [07:43:16.4521] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:18.4536] Slim::Utils::Misc::msg (1343) Warning: [07:43:18.4494] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:21.4486] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 07:43:21.4765] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://www.mysqueezebox.com/api/sounds/v1/opml
+Couldn't resolve IP address for: www.mysqueezebox.com
+[22-02-14 07:43:21.4833] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Couldn't resolve IP address for: www.mysqueezebox.com
+[22-02-14 07:43:23.4538] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:43:23.4590] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:43:35.0074] Slim::Utils::Misc::msg (1343) Warning: [07:43:35.0038] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:42.0116] Slim::Utils::Misc::msg (1343) Warning: [07:43:42.0074] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:52.0263] Slim::Utils::Misc::msg (1343) Warning: [07:43:52.0230] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:43:57.0269] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:43:57.0321] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:44:19.0078] Slim::Utils::Misc::msg (1343) Warning: [07:44:19.0038] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:44:26.0124] Slim::Utils::Misc::msg (1343) Warning: [07:44:26.0084] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:44:39.4651] Slim::Utils::Misc::msg (1343) Warning: [07:44:39.4605] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:44:44.4616] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:44:44.4643] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:44:55.1162] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 07:45:22.6632] Slim::Utils::Misc::msg (1343) Warning: [07:45:22.6600] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:24.9673] Slim::Utils::Misc::msg (1343) Warning: [07:45:24.9644] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:26.0284] Slim::Utils::Misc::msg (1343) Warning: [07:45:26.0267] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:29.6810] Slim::Utils::Misc::msg (1343) Warning: [07:45:29.6781] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:31.9641] Slim::Utils::Misc::msg (1343) Warning: [07:45:31.9625] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:33.0300] Slim::Utils::Misc::msg (1343) Warning: [07:45:33.0283] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:39.6975] Slim::Utils::Misc::msg (1343) Warning: [07:45:39.6919] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:41.9708] Slim::Utils::Misc::msg (1343) Warning: [07:45:41.9674] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:43.0321] Slim::Utils::Misc::msg (1343) Warning: [07:45:43.0301] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:45:44.6928] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 07:45:46.9697] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 07:45:48.0314] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:45:48.0352] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:47:10.0071] Slim::Utils::Misc::msg (1343) Warning: [07:47:10.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:47:17.0085] Slim::Utils::Misc::msg (1343) Warning: [07:47:17.0068] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:47:27.0126] Slim::Utils::Misc::msg (1343) Warning: [07:47:27.0107] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:47:32.0140] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:47:32.0201] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:50:14.0067] Slim::Utils::Misc::msg (1343) Warning: [07:50:14.0050] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:50:21.0088] Slim::Utils::Misc::msg (1343) Warning: [07:50:21.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:50:31.0126] Slim::Utils::Misc::msg (1343) Warning: [07:50:31.0110] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:50:36.0138] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:50:36.0196] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:55:58.0064] Slim::Utils::Misc::msg (1343) Warning: [07:55:58.0047] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:56:05.0069] Slim::Utils::Misc::msg (1343) Warning: [07:56:05.0052] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:56:15.0081] Slim::Utils::Misc::msg (1343) Warning: [07:56:15.0064] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 07:56:20.0076] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 07:56:20.0152] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:01:42.0066] Slim::Utils::Misc::msg (1343) Warning: [08:01:42.0050] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:01:49.0077] Slim::Utils::Misc::msg (1343) Warning: [08:01:49.0051] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:01:59.0072] Slim::Utils::Misc::msg (1343) Warning: [08:01:59.0055] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:02:04.0061] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:02:04.0100] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:04:26.0012] Slim::Utils::Misc::msg (1343) Warning: [08:04:25.9993] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:33.0055] Slim::Utils::Misc::msg (1343) Warning: [08:04:33.0016] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:35.0169] Slim::Utils::Misc::msg (1343) Warning: [08:04:35.0152] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:42.2820] Slim::Utils::Misc::msg (1343) Warning: [08:04:42.2789] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:43.1186] Slim::Utils::Misc::msg (1343) Warning: [08:04:43.1116] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:48.1124] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:04:52.2824] Slim::Utils::Misc::msg (1343) Warning: [08:04:52.2808] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:04:57.2839] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:05:33.8862] Slim::Utils::Misc::msg (1343) Warning: [08:05:33.8820] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:05:40.9177] Slim::Utils::Misc::msg (1343) Warning: [08:05:40.9159] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:05:50.9146] Slim::Utils::Misc::msg (1343) Warning: [08:05:50.9129] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:05:55.9148] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:06:44.9747] Slim::Utils::Misc::msg (1343) Warning: [08:06:44.9703] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:06:51.9946] Slim::Utils::Misc::msg (1343) Warning: [08:06:51.9927] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:07:01.9976] Slim::Utils::Misc::msg (1343) Warning: [08:07:01.9951] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:07:06.9987] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:07:26.0055] Slim::Utils::Misc::msg (1343) Warning: [08:07:26.0024] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:07:33.0087] Slim::Utils::Misc::msg (1343) Warning: [08:07:33.0071] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:07:43.0140] Slim::Utils::Misc::msg (1343) Warning: [08:07:43.0123] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:07:48.0132] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:07:48.0178] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:13:10.0080] Slim::Utils::Misc::msg (1343) Warning: [08:13:10.0063] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:13:17.0104] Slim::Utils::Misc::msg (1343) Warning: [08:13:17.0087] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:13:27.0130] Slim::Utils::Misc::msg (1343) Warning: [08:13:27.0113] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:13:32.0145] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:13:32.0185] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:16:45.9733] Slim::Utils::Misc::msg (1343) Warning: [08:16:45.9716] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:16:53.0089] Slim::Utils::Misc::msg (1343) Warning: [08:16:53.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:17:03.0132] Slim::Utils::Misc::msg (1343) Warning: [08:17:03.0116] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:17:08.0164] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:18:29.5298] Slim::Utils::Misc::msg (1343) Warning: [08:18:29.5268] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:18:36.5325] Slim::Utils::Misc::msg (1343) Warning: [08:18:36.5308] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:18:46.5361] Slim::Utils::Misc::msg (1343) Warning: [08:18:46.5344] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:18:51.5371] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 08:18:54.0198] Slim::Utils::Misc::msg (1343) Warning: [08:18:54.0181] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:19:01.0220] Slim::Utils::Misc::msg (1343) Warning: [08:19:01.0196] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:19:11.0245] Slim::Utils::Misc::msg (1343) Warning: [08:19:11.0228] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:19:16.0262] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:19:16.0324] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:24:38.0051] Slim::Utils::Misc::msg (1343) Warning: [08:24:38.0035] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:24:45.0075] Slim::Utils::Misc::msg (1343) Warning: [08:24:45.0040] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:24:55.0087] Slim::Utils::Misc::msg (1343) Warning: [08:24:55.0070] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:25:00.0059] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:25:00.0120] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:30:22.0162] Slim::Utils::Misc::msg (1343) Warning: [08:30:22.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:30:29.0148] Slim::Utils::Misc::msg (1343) Warning: [08:30:29.0131] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:30:39.0275] Slim::Utils::Misc::msg (1343) Warning: [08:30:39.0219] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:30:44.0249] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:30:44.0343] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:36:06.0112] Slim::Utils::Misc::msg (1343) Warning: [08:36:06.0046] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:36:13.0090] Slim::Utils::Misc::msg (1343) Warning: [08:36:13.0073] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:36:23.0151] Slim::Utils::Misc::msg (1343) Warning: [08:36:23.0135] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:36:28.0158] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:36:28.0220] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:41:50.0083] Slim::Utils::Misc::msg (1343) Warning: [08:41:50.0038] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:41:57.0090] Slim::Utils::Misc::msg (1343) Warning: [08:41:57.0073] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:42:07.0151] Slim::Utils::Misc::msg (1343) Warning: [08:42:07.0127] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:42:12.0119] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:42:12.0193] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:47:34.0070] Slim::Utils::Misc::msg (1343) Warning: [08:47:34.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:47:41.0088] Slim::Utils::Misc::msg (1343) Warning: [08:47:41.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:47:51.0110] Slim::Utils::Misc::msg (1343) Warning: [08:47:51.0093] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:47:56.0101] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:47:56.0141] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:53:18.0066] Slim::Utils::Misc::msg (1343) Warning: [08:53:18.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:53:25.0069] Slim::Utils::Misc::msg (1343) Warning: [08:53:25.0052] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:53:35.0077] Slim::Utils::Misc::msg (1343) Warning: [08:53:35.0061] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:53:40.0074] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:53:40.0171] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:59:02.0051] Slim::Utils::Misc::msg (1343) Warning: [08:59:02.0035] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:59:09.0086] Slim::Utils::Misc::msg (1343) Warning: [08:59:09.0068] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:59:19.0142] Slim::Utils::Misc::msg (1343) Warning: [08:59:19.0118] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 08:59:24.0158] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 08:59:24.0241] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:04:46.0086] Slim::Utils::Misc::msg (1343) Warning: [09:04:46.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:04:53.0091] Slim::Utils::Misc::msg (1343) Warning: [09:04:53.0074] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:05:03.0142] Slim::Utils::Misc::msg (1343) Warning: [09:05:03.0121] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:05:08.0146] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:05:08.0212] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:10:30.0072] Slim::Utils::Misc::msg (1343) Warning: [09:10:30.0056] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:10:37.0088] Slim::Utils::Misc::msg (1343) Warning: [09:10:37.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:10:47.0227] Slim::Utils::Misc::msg (1343) Warning: [09:10:47.0210] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:10:52.0237] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:10:52.0299] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:16:14.0071] Slim::Utils::Misc::msg (1343) Warning: [09:16:14.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:16:21.0088] Slim::Utils::Misc::msg (1343) Warning: [09:16:21.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:16:31.0110] Slim::Utils::Misc::msg (1343) Warning: [09:16:31.0093] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:16:36.0101] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:16:36.0140] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:21:58.0066] Slim::Utils::Misc::msg (1343) Warning: [09:21:58.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:22:05.0068] Slim::Utils::Misc::msg (1343) Warning: [09:22:05.0051] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:22:15.0095] Slim::Utils::Misc::msg (1343) Warning: [09:22:15.0061] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:22:20.0069] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:22:20.0086] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:27:42.0240] Slim::Utils::Misc::msg (1343) Warning: [09:27:42.0186] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:27:49.0110] Slim::Utils::Misc::msg (1343) Warning: [09:27:49.0079] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:27:59.0142] Slim::Utils::Misc::msg (1343) Warning: [09:27:59.0118] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:28:04.0146] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:28:04.0205] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:33:26.0080] Slim::Utils::Misc::msg (1343) Warning: [09:33:26.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:33:33.0116] Slim::Utils::Misc::msg (1343) Warning: [09:33:33.0082] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:33:43.0130] Slim::Utils::Misc::msg (1343) Warning: [09:33:43.0113] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:33:48.0143] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:33:48.0212] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:39:10.0072] Slim::Utils::Misc::msg (1343) Warning: [09:39:10.0056] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:39:17.0088] Slim::Utils::Misc::msg (1343) Warning: [09:39:17.0071] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:39:27.0118] Slim::Utils::Misc::msg (1343) Warning: [09:39:27.0102] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:39:32.0119] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:39:32.0193] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:44:54.0071] Slim::Utils::Misc::msg (1343) Warning: [09:44:54.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:45:01.0086] Slim::Utils::Misc::msg (1343) Warning: [09:45:01.0069] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:45:11.0107] Slim::Utils::Misc::msg (1343) Warning: [09:45:11.0091] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:45:16.0101] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:45:16.0168] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:50:38.0066] Slim::Utils::Misc::msg (1343) Warning: [09:50:38.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:50:45.0068] Slim::Utils::Misc::msg (1343) Warning: [09:50:45.0051] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:50:55.0094] Slim::Utils::Misc::msg (1343) Warning: [09:50:55.0060] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:51:00.0066] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:51:00.0113] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:56:22.0070] Slim::Utils::Misc::msg (1343) Warning: [09:56:22.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:56:29.0132] Slim::Utils::Misc::msg (1343) Warning: [09:56:29.0116] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:56:39.0188] Slim::Utils::Misc::msg (1343) Warning: [09:56:39.0171] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 09:56:44.0191] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 09:56:44.0251] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:02:06.0047] Slim::Utils::Misc::msg (1343) Warning: [10:02:06.0030] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:02:13.0090] Slim::Utils::Misc::msg (1343) Warning: [10:02:13.0073] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:02:23.0140] Slim::Utils::Misc::msg (1343) Warning: [10:02:23.0124] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:02:28.0146] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:02:28.0216] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:07:50.0072] Slim::Utils::Misc::msg (1343) Warning: [10:07:50.0056] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:07:57.0088] Slim::Utils::Misc::msg (1343) Warning: [10:07:57.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:08:07.0124] Slim::Utils::Misc::msg (1343) Warning: [10:08:07.0107] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:08:12.0134] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:08:12.0203] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:13:34.0071] Slim::Utils::Misc::msg (1343) Warning: [10:13:34.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:13:41.0089] Slim::Utils::Misc::msg (1343) Warning: [10:13:41.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:13:51.0110] Slim::Utils::Misc::msg (1343) Warning: [10:13:51.0093] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:13:56.0101] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:13:56.0139] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:19:18.0066] Slim::Utils::Misc::msg (1343) Warning: [10:19:18.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:19:25.0067] Slim::Utils::Misc::msg (1343) Warning: [10:19:25.0051] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:19:35.0095] Slim::Utils::Misc::msg (1343) Warning: [10:19:35.0060] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:19:40.0074] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:19:40.0176] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:25:02.0070] Slim::Utils::Misc::msg (1343) Warning: [10:25:02.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:25:09.0132] Slim::Utils::Misc::msg (1343) Warning: [10:25:09.0116] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:25:19.0188] Slim::Utils::Misc::msg (1343) Warning: [10:25:19.0171] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:25:24.0191] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:25:24.0250] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:30:46.0087] Slim::Utils::Misc::msg (1343) Warning: [10:30:46.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:30:53.0090] Slim::Utils::Misc::msg (1343) Warning: [10:30:53.0073] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:31:03.0140] Slim::Utils::Misc::msg (1343) Warning: [10:31:03.0124] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:31:08.0146] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:31:08.0212] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:31:40.6954] Slim::Utils::Misc::msg (1343) Warning: [10:31:40.6919] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:31:47.6997] Slim::Utils::Misc::msg (1343) Warning: [10:31:47.6955] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:31:57.6985] Slim::Utils::Misc::msg (1343) Warning: [10:31:57.6968] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:32:02.7221] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:33:19.0708] Slim::Utils::Misc::msg (1343) Warning: [10:33:19.0677] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:26.0716] Slim::Utils::Misc::msg (1343) Warning: [10:33:26.0699] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:27.9299] Slim::Utils::Misc::msg (1343) Warning: [10:33:27.9283] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:34.9306] Slim::Utils::Misc::msg (1343) Warning: [10:33:34.9289] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:36.0861] Slim::Utils::Misc::msg (1343) Warning: [10:33:36.0823] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:41.0848] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:33:44.9331] Slim::Utils::Misc::msg (1343) Warning: [10:33:44.9301] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:33:49.9338] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:36:30.0094] Slim::Utils::Misc::msg (1343) Warning: [10:36:30.0078] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:36:37.0088] Slim::Utils::Misc::msg (1343) Warning: [10:36:37.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:36:47.0225] Slim::Utils::Misc::msg (1343) Warning: [10:36:47.0209] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:36:52.0236] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:36:52.0281] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:39:25.4790] Slim::Utils::Misc::msg (1343) Warning: [10:39:25.4773] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:39:32.4820] Slim::Utils::Misc::msg (1343) Warning: [10:39:32.4804] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:39:42.4861] Slim::Utils::Misc::msg (1343) Warning: [10:39:42.4835] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:39:47.4858] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:42:14.0070] Slim::Utils::Misc::msg (1343) Warning: [10:42:14.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:42:21.0085] Slim::Utils::Misc::msg (1343) Warning: [10:42:21.0069] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:42:31.0106] Slim::Utils::Misc::msg (1343) Warning: [10:42:31.0090] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:42:36.0101] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:42:36.0168] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:45:20.0315] Slim::Networking::IO::Select::__ANON__ (130) Error: Select task failed calling Slim::Web::HTTP::processHTTP: /etc/resolv.conf: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/DNS.pm line 86.
+; fh=Slim::Web::HTTP::ClientConn=GLOB(0xb198afa0)
+[22-02-14 10:45:34.0074] Slim::Utils::Misc::msg (1343) Warning: [10:45:34.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:45:41.0255] Slim::Utils::Misc::msg (1343) Warning: [10:45:41.0229] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:45:51.0540] Slim::Utils::Misc::msg (1343) Warning: [10:45:51.0501] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:45:56.0516] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:46:04.6766] Slim::Utils::Misc::msg (1343) Warning: [10:46:04.6750] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:46:11.6790] Slim::Utils::Misc::msg (1343) Warning: [10:46:11.6773] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:46:21.6801] Slim::Utils::Misc::msg (1343) Warning: [10:46:21.6784] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:46:26.6815] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:47:58.0050] Slim::Utils::Misc::msg (1343) Warning: [10:47:58.0033] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:48:05.0067] Slim::Utils::Misc::msg (1343) Warning: [10:48:05.0039] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:48:15.0066] Slim::Utils::Misc::msg (1343) Warning: [10:48:15.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:48:20.0049] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:48:20.0084] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:51:33.6703] Slim::Networking::IO::Select::__ANON__ (130) Error: Select task failed calling Slim::Web::HTTP::processHTTP: /etc/resolv.conf: Permission denied at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/DNS.pm line 86.
+; fh=Slim::Web::HTTP::ClientConn=GLOB(0xb168f850)
+[22-02-14 10:52:50.0131] Slim::Utils::Misc::msg (1343) Warning: [10:52:50.0109] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:52:57.0154] Slim::Utils::Misc::msg (1343) Warning: [10:52:57.0118] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:53:07.0168] Slim::Utils::Misc::msg (1343) Warning: [10:53:07.0151] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:53:12.0159] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 10:53:42.0253] Slim::Utils::Misc::msg (1343) Warning: [10:53:42.0236] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:53:49.0086] Slim::Utils::Misc::msg (1343) Warning: [10:53:49.0069] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:53:59.0113] Slim::Utils::Misc::msg (1343) Warning: [10:53:59.0097] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:54:04.0136] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:54:04.0176] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:59:26.0080] Slim::Utils::Misc::msg (1343) Warning: [10:59:26.0054] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:59:33.0125] Slim::Utils::Misc::msg (1343) Warning: [10:59:33.0109] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:59:43.0170] Slim::Utils::Misc::msg (1343) Warning: [10:59:43.0154] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 10:59:48.0200] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 10:59:48.0219] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:00:13.0214] Slim::Utils::Misc::msg (1343) Warning: [11:00:13.0189] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:00:20.0227] Slim::Utils::Misc::msg (1343) Warning: [11:00:20.0210] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:00:30.0256] Slim::Utils::Misc::msg (1343) Warning: [11:00:30.0239] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:00:35.0238] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Couldn't resolve IP address for: github.com
+[22-02-14 11:05:10.0076] Slim::Utils::Misc::msg (1343) Warning: [11:05:10.0059] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:05:17.0088] Slim::Utils::Misc::msg (1343) Warning: [11:05:17.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:05:27.0129] Slim::Utils::Misc::msg (1343) Warning: [11:05:27.0113] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:05:32.0121] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:05:32.0152] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:10:54.0063] Slim::Utils::Misc::msg (1343) Warning: [11:10:54.0046] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:11:01.0073] Slim::Utils::Misc::msg (1343) Warning: [11:11:01.0057] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:11:11.0111] Slim::Utils::Misc::msg (1343) Warning: [11:11:11.0095] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:11:16.0123] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:11:16.0160] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:16:38.0066] Slim::Utils::Misc::msg (1343) Warning: [11:16:38.0049] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:16:45.0097] Slim::Utils::Misc::msg (1343) Warning: [11:16:45.0072] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:16:55.0111] Slim::Utils::Misc::msg (1343) Warning: [11:16:55.0094] EV: error in callback (ignoring): pack_sockaddr: invalid host at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib/AnyEvent/DNS.pm line 1114.
+[22-02-14 11:17:00.0111] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting http://opml.radiotime.com/Index.aspx?partnerId=16
+Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:17:00.0152] Slim::Plugin::InternetRadio::Plugin::_gotRadioError (71) Unable to retrieve radio directory from SN: Couldn't resolve IP address for: opml.radiotime.com
+[22-02-14 11:47:46.3779] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 11:51:25.9836] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:38:43.1815] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:41:44.5558] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:43:52.9710] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:44:18.6978] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:45:17.1809] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:45:22.6324] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:45:40.8756] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:56:12.3427] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:56:41.2527] Slim::Networking::Repositories::get (137) Falling back to plain text http lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 13:56:42.2358] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 13:56:42.3619] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:06:31.6063] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:06:31.6789] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:06:32.2684] Slim::Utils::Misc::msg (1343) Warning: [14:06:32.2598] Async::HTTP: Unable to load IO::Socket::SSL, will try connecting to SSL servers in non-SSL mode
+Can't locate IO/Socket/SSL.pm in @INC (you may need to install the IO::Socket::SSL module) (@INC contains: /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Cache/InstalledPlugins /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34 /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /usr/local/lib/perl5/site_perl /usr/local/share/perl5/site_perl /usr/lib/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/core_perl /usr/share/perl5/core_perl) at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+BEGIN failed--compilation aborted at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+Compilation failed in require at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/HTTP.pm line 31.
+
+[22-02-14 14:06:34.3007] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:08:13.1979] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:08:13.2717] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:08:13.8782] Slim::Utils::Misc::msg (1343) Warning: [14:08:13.8688] Async::HTTP: Unable to load IO::Socket::SSL, will try connecting to SSL servers in non-SSL mode
+Can't locate IO/Socket/SSL.pm in @INC (you may need to install the IO::Socket::SSL module) (@INC contains: /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Cache/InstalledPlugins /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34 /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /usr/local/lib/perl5/site_perl /usr/local/share/perl5/site_perl /usr/lib/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/core_perl /usr/share/perl5/core_perl) at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+BEGIN failed--compilation aborted at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+Compilation failed in require at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/HTTP.pm line 31.
+
+[22-02-14 14:08:15.9028] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:08:42.8145] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 14:08:42.8354] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:12:22.8640] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:12:22.9552] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:12:24.0374] Slim::Utils::Misc::msg (1343) Warning: [14:12:24.0283] Async::HTTP: Unable to load IO::Socket::SSL, will try connecting to SSL servers in non-SSL mode
+Can't locate IO/Socket/SSL.pm in @INC (you may need to install the IO::Socket::SSL module) (@INC contains: /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Cache/InstalledPlugins /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/arm-linux-gnueabi-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34.0/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34/armv8l-linux-thread-multi/auto /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/armv8l-linux-thread-multi /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN/arch/5.34 /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/lib /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/CPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN /usr/local/lib/perl5/site_perl /usr/local/share/perl5/site_perl /usr/lib/perl5/vendor_perl /usr/share/perl5/vendor_perl /usr/lib/perl5/core_perl /usr/share/perl5/core_perl) at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+BEGIN failed--compilation aborted at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/Socket/HTTPS.pm line 13.
+Compilation failed in require at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Async/HTTP.pm line 31.
+
+[22-02-14 14:12:37.8462] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 14:12:37.8547] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-14 14:12:37.8587] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-14 14:12:37.9000] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-14 14:12:37.9168] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-14 14:12:37.9272] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-14 14:12:37.9583] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-14 14:12:38.0428] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-14 14:12:38.0633] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-14 14:12:38.4334] Slim::Plugin::RhapsodyDirect::Plugin::initPlugin (22) Deze service vereist Perl module IO::Socket::SSL. Je kunt de service zonder deze module niet gebruiken. Gebruik de pakketmanager van je besturingssysteem om het te instaleren.
+[22-02-14 14:12:38.8885] Slim::Networking::Repositories::get (137) Falling back to plain text http lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 14:12:38.9105] Slim::Networking::Repositories::get (137) Falling back to plain text http lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:12:39.9088] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-14 14:12:44.8187] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:12:44.8798] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 14:16:33.6298] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:16:33.7046] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:16:37.4107] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:17:58.1465] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:17:58.2218] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:18:01.9219] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:19:44.4020] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:19:44.4805] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:19:48.1650] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:21:24.3488] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 14:22:14.9497] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:22:15.0321] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:22:18.8608] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-14 14:22:28.3934] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 14:22:28.4155] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Can't connect to https URL lack of IO::Socket::SSL: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:27:31.8698] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-14 14:27:31.9572] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-14 14:27:47.9568] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 14:27:47.9669] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-14 14:27:47.9714] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-14 14:27:48.0094] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-14 14:27:48.0211] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-14 14:27:48.0334] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-14 14:27:48.0652] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-14 14:27:48.1552] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-14 14:27:48.1774] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-14 14:27:50.0331] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-14 14:27:50.9671] Slim::Networking::Async::connect (114) Failed to connect to www.mysqueezebox.com:443, because
+[22-02-14 14:27:50.9852] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting https://www.mysqueezebox.com/api/sounds/v1/opml
+Connect timed out: Permission denied
+[22-02-14 14:27:50.9980] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Connect timed out: Permission denied
+[22-02-14 14:27:51.4202] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:27:51.4335] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-14 14:27:51.4490] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-14 14:27:51.9661] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:27:51.9803] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-14 14:27:51.9983] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-14 14:27:52.5173] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:27:52.9447] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:28:00.6589] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-14 14:28:34.2142] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:28:34.2214] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-14 14:28:34.2621] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-14 14:28:34.2676] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:07:20.6051] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-18 10:07:20.6909] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-18 10:07:36.6874] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:07:36.6963] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-18 10:07:36.7044] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-18 10:07:36.7390] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-18 10:07:36.7504] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-18 10:07:36.7619] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-18 10:07:36.8055] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-18 10:07:36.8948] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-18 10:07:36.9174] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-18 10:07:38.7482] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-18 10:07:39.6745] Slim::Networking::Async::connect (114) Failed to connect to www.mysqueezebox.com:443, because
+[22-02-18 10:07:39.6967] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting https://www.mysqueezebox.com/api/sounds/v1/opml
+Connect timed out: Permission denied
+[22-02-18 10:07:39.7059] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Connect timed out: Permission denied
+[22-02-18 10:07:40.1170] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:07:40.1360] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:07:40.1496] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-18 10:07:40.6538] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:07:40.6702] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:07:40.6790] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-18 10:07:41.1993] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:07:41.6280] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:08:05.5254] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:08:09.1239] Slim::Networking::Async::connect (114) Failed to connect to www.mysqueezebox.com:443, because
+[22-02-18 10:08:09.1328] Slim::Utils::Update::checkVersionError (185) Fout opgetreden tijdens het controleren op updates van Logitech Media Server:
+Connect timed out: Permission denied
+[22-02-18 10:08:16.4143] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:08:16.4190] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:08:16.4588] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:08:16.4663] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:09:51.6067] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:09:51.6113] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:09:51.6508] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:09:51.6582] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:10:18.2505] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:10:18.2589] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:10:18.2950] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:10:18.3054] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:12:41.4521] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-18 10:12:41.5510] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-18 10:12:57.3471] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:12:57.3515] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-18 10:12:57.3594] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-18 10:12:57.3987] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-18 10:12:57.4146] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-18 10:12:57.4255] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-18 10:12:57.4562] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-18 10:12:57.5432] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-18 10:12:57.5682] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-18 10:12:59.3984] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-18 10:13:00.3237] Slim::Networking::Async::connect (114) Failed to connect to www.mysqueezebox.com:443, because
+[22-02-18 10:13:00.3390] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting https://www.mysqueezebox.com/api/sounds/v1/opml
+Connect timed out: Permission denied
+[22-02-18 10:13:00.3501] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Connect timed out: Permission denied
+[22-02-18 10:13:00.7674] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:00.7805] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:13:00.7929] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-18 10:13:01.2956] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:01.3134] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:13:01.3175] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-18 10:13:01.8081] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:02.2710] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:33.8948] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:13:34.3754] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:13:42.9820] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:42.9867] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:13:43.0256] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:13:43.0345] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:15:28.8341] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:15:28.8386] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:15:28.8779] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:15:28.8858] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:22:09.0759] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-18 10:22:09.1630] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-18 10:22:13.5789] Slim::Networking::Slimproto::init (124) Warning: Can't listen on port 3483 for Slim protocol: Address in use at /LMS/logitechmediaserver-8.3.0-1644703639-noCPAN/Slim/Networking/Slimproto.pm line 124.
+[22-02-18 10:25:03.9258] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-18 10:25:04.0186] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-18 10:25:19.9925] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:25:20.0009] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-18 10:25:20.0048] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-18 10:25:20.0426] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-18 10:25:20.0551] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-18 10:25:20.0656] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-18 10:25:20.0939] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-18 10:25:20.1809] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-18 10:25:20.2018] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-18 10:25:22.0750] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-18 10:25:22.9945] Slim::Networking::Async::connect (114) Failed to connect to www.mysqueezebox.com:443, because
+[22-02-18 10:25:23.0099] Slim::Formats::XML::gotErrorViaHTTP (343) Error: getting https://www.mysqueezebox.com/api/sounds/v1/opml
+Connect timed out: Permission denied
+[22-02-18 10:25:23.0227] Slim::Plugin::Sounds::Plugin::_gotSoundsError (82) Error: Unable to cache Sounds & Effects menu from SN: Connect timed out: Permission denied
+[22-02-18 10:25:23.4244] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:25:23.4417] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:25:23.4469] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml
+[22-02-18 10:25:23.9605] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:25:23.9734] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:25:23.9837] Slim::Networking::Repositories::__ANON__ (150) https lookup failed - trying plain text http instead: https://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml
+[22-02-18 10:25:24.4954] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:25:24.9250] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:25:50.7493] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:26:07.8969] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:26:12.7079] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:26:12.7172] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/unsupported.xml: Connect timed out: Permission denied
+[22-02-18 10:26:12.7530] Slim::Networking::Async::connect (114) Failed to connect to github.com:443, because
+[22-02-18 10:26:12.7614] Slim::Networking::Repositories::__ANON__ (147) Failed to fetch http://github.com/LMS-Community/lms-plugin-repository/raw/master/extensions.xml: Connect timed out: Permission denied
+[22-02-18 10:31:42.2980] main::init (390) Starting Logitech Media Server (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000 - armv8l-linux-thread-multi
+[22-02-18 10:31:42.3851] main::changeEffectiveUserAndGroup (1022) Warning: Logitech Media Server must not be run as root!  Trying user squeezeboxserver instead.
+[22-02-18 10:31:42.3980] main::changeEffectiveUserAndGroup (1058) Warning: Logitech Media Server must not be run as root! Only do this if you know what you're doing!!
+[22-02-18 10:31:58.2826] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:31:58.2902] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-18 10:31:58.2943] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-18 10:31:58.3332] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-18 10:31:58.3457] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-18 10:31:58.3565] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-18 10:31:58.3903] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-18 10:31:58.4736] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-18 10:31:58.4952] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-18 10:32:00.3438] main::checkDataSource (1125) Warning: Schema updated or no media found in the database, initiating scan.
+[22-02-18 10:32:38.1935] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building
+[22-02-18 10:32:38.4060] Slim::Plugin::FullTextSearch::Plugin::_initPopularTerms (580) Fulltext index missing or outdated - re-building

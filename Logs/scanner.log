@@ -1,0 +1,23 @@
+[22-02-18 10:32:19.8712] main::main (206) Starting Logitech Media Server scanner (v8.3.0, 1644703639, Sun 13 Feb 2022 06:47:08 AM CET) perl 5.034000
+[22-02-18 10:32:32.7141] Slim::Music::Import::runImporter (578) Starting Slim::Media::MediaFolderScan scan
+[22-02-18 10:32:32.7228] Slim::Music::Import::endImporter (711) Completed Slim::Media::MediaFolderScan Scan in 0.009 seconds.
+[22-02-18 10:32:32.7356] Slim::Music::Import::runImporter (578) Starting Slim::Plugin::WiMP::Importer scan
+[22-02-18 10:32:33.1848] Slim::Music::Import::endImporter (711) Completed Slim::Plugin::WiMP::Importer Scan in 0.450 seconds.
+[22-02-18 10:32:33.1944] Slim::Music::Import::runImporter (578) Starting Slim::Plugin::ExtendedBrowseModes::Libraries scan
+[22-02-18 10:32:33.2034] Slim::Music::Import::endImporter (711) Completed Slim::Plugin::ExtendedBrowseModes::Libraries Scan in 0.005 seconds.
+[22-02-18 10:32:33.2091] Slim::Music::Import::runImporter (578) Starting Slim::Plugin::FullTextSearch::Plugin scan
+[22-02-18 10:32:33.2264] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (475) Starting fulltext index build
+[22-02-18 10:32:33.2351] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (479) Initialize fulltext table
+[22-02-18 10:32:33.2508] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (492) Create fulltext index for tracks
+[22-02-18 10:32:33.3452] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (502) Create fulltext index for albums
+[22-02-18 10:32:33.3611] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (511) Create fulltext index for contributors
+[22-02-18 10:32:33.3733] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (521) Create fulltext index for playlists
+[22-02-18 10:32:33.4260] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (536) Optimize fulltext index
+[22-02-18 10:32:33.5305] Slim::Plugin::FullTextSearch::Plugin::_rebuildIndex (551) Fulltext index build done!
+[22-02-18 10:32:33.5344] Slim::Music::Import::endImporter (711) Completed Slim::Plugin::FullTextSearch::Plugin Scan in 0.325 seconds.
+[22-02-18 10:32:33.5443] Slim::Music::Import::runImporter (578) Starting Slim::Plugin::OnlineLibrary::Importer::VirtualLibrariesCleanup scan
+[22-02-18 10:32:33.5631] Slim::Music::Import::endImporter (711) Completed Slim::Plugin::OnlineLibrary::Importer::VirtualLibrariesCleanup Scan in 0.019 seconds.
+[22-02-18 10:32:33.5823] Slim::Music::Artwork::precacheAllArtwork (657) Starting precacheArtwork for 0 albums
+[22-02-18 10:32:33.5863] Slim::Music::Import::endImporter (711) Completed precacheArtwork Scan in 0.011 seconds.
+[22-02-18 10:32:33.5960] Slim::Music::Import::runScanPostProcessing (480) Starting Database optimization.
+[22-02-18 10:32:35.6925] Slim::Music::Import::endImporter (711) Completed dbOptimize Scan in 2.087 seconds.

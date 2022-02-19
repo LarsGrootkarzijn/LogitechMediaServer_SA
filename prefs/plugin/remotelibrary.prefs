@@ -1,0 +1,10 @@
+---
+_ts_ignoreFolders: 1644788030
+_ts_transcodeLMS: 1644788030
+_ts_useLMS: 1644788030
+_ts_useUPnP: 1644788030
+_version: 0
+ignoreFolders: Movies, Video, Pictures, Images, lost+found
+transcodeLMS: flac
+useLMS: 1
+useUPnP: 0
